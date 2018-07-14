@@ -1,6 +1,6 @@
 
-
-
+#control statements
+# if elif else
 
 age = int(input("\n Enter the age :"))
 
