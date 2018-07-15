@@ -74,3 +74,13 @@ print(n)
 gn = [12,25,36,4]
 gn.sort()
 print(gn)
+
+
+#reverse
+gn.reverse()
+print(gn)
+
+
+#Replace
+gn[0]= 14
+print(gn)

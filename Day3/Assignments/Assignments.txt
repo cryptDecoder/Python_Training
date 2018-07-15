@@ -1,0 +1,8 @@
+"""
+1: [56,1,45,3,75,45,1]
+sort without using any function (sort,sorted)
+
+2: remove function implement
+
+3 : reverse order 
+"""
