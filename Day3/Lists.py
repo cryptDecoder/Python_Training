@@ -56,3 +56,21 @@ print(c)
 d=[5,6,4,7]
 c.extend(d)
 print(c)
+
+n = ["pruthvi"]
+print(id(n))
+n*=4
+print(n)
+print(id(n))
+
+
+#remove
+
+n.remove("pruthvi")
+print(n)
+
+#sort
+
+gn = [12,25,36,4]
+gn.sort()
+print(gn)
