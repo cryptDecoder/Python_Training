@@ -8,7 +8,7 @@ for i in range(no):
 print("\n List Before element delete :",item)
 
 ele = int(input("\n Enter the the element which you want to delete :"))
-for i in range(len(item)):
+for i in item:
     if(i == ele):
         del item[item.index(ele)]
         print("\n Item deleted successfully..!!")

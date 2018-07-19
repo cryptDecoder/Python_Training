@@ -1,0 +1,1 @@
+datalist = [10,20,34,36]for i in datalist:    print(i)no = int(input("\n Enter the elements :"))value = int(input("\n Enter the new value :"))for i in datalist:   data = datalist.index(no)   data[i] = valueprint(data)

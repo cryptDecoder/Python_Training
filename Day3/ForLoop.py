@@ -8,7 +8,9 @@ for i in range(1,10):
 
 for i in range(10):
     print(i)'''
+from statsmodels.sandbox.regression.runmnl import z
 
+from Day1.SimpleOperations import a
 
 for i in range(10,2,-1):
 
@@ -16,3 +18,6 @@ for i in range(10,2,-1):
 
 '''for _ in range(10):
     print(_)'''
+
+for _ in range(a,z):
+    print(_)
