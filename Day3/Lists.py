@@ -72,6 +72,8 @@ print(n)
 #sort
 
 gn = [12,25,36,4]
+sorted(gn)
+print(gn)
 gn.sort()
 print(gn)
 
@@ -84,3 +86,7 @@ print(gn)
 #Replace
 gn[0]= 14
 print(gn)
+
+
+
+
