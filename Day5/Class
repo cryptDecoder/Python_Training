@@ -1,0 +1,19 @@
+OOPS concepts
+
+
+1 : inheritance
+2 : Abstraction
+3 : Encapsulation
+4 : class
+5 : object
+
+
+Syntax declaration of class
+classs Myclass:  // class keyword and name
+
+
+
+
+_a    private variable
+__b   restricted variable
+

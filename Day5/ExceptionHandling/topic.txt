@@ -10,7 +10,29 @@ Exception handling
 
 Synatx of exception handling
 
-try
+try:
+    block of statements
+
+except exception_name as var:
+        print
+
+try :
+    block of statemnet
+except Exception as e:
+    print
 
 
-except
+Own Exceeption making
+
+syntax
+
+class myException() Exception:
+
+
+
+
+
+
+
+
+
