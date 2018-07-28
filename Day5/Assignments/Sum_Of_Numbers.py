@@ -22,3 +22,7 @@ for i in range(num):
 
 print(set(numbers))
 
+
+
+
+
