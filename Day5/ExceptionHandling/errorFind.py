@@ -4,7 +4,7 @@ except ZeroDivisionError as e:
     print(e)
 
 
-a = [12,36,45]
+a = []
 try:
     print(a[5])
     print(6/0)

@@ -30,6 +30,15 @@ class myException() Exception:
 
 
 
+try :
+    block of statements
+
+except:
+    print exception
+
+finally
+
+
 
 
 
